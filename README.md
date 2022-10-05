@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossam</h1>
-<h3 align="center">A Software Engineer && Passionate Theoretical Computer Science Enthusiast</h3>
+<h3 align="center">A Software Engineer && Theoretical Computer Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossamtarek-bits&label=Profile%20views&color=0e75b6&style=flat" alt="hossamtarek-bits" /> </p>
 
